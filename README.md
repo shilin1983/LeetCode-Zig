@@ -15,3 +15,9 @@ git clone https://github.com/shilin1983/leetcode-zig.git
 ```shell
 sh test.sh
 ```
+
+## 题解列表
+
+| 序号  |                       标题                        | 难度  |                    方案                     |
+| :---: | :-----------------------------------------------: | :---: | :-----------------------------------------: |
+| 0001  | [两数之和](https://leetcode.cn/problems/two-sum/) | 简单  | [Zig](src/solutions/problem0001/twoSum.zig) |
